@@ -2,12 +2,12 @@
 
 Sessions led by [Timothy Kam](https://phantomachine.github.io)
 
-## Nov 3 : Lecture ~ Measurement (Part 1): Or How We Come to Love the Accountants
+## Nov 3 : Lecture ~ Measurement I: Or How We Come to Love the Accountants
 
   * Introduction to measurement
   * Why is it important
 
-## Nov 10 : Lecture ~ Measurement (Part 2): Heterogeneous Products and Inflation
+## Nov 10 : Lecture ~ Measurement II: Heterogeneous Products and Inflation
 
   * In-Class Exercises and Q&A
 
