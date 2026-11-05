@@ -28,9 +28,13 @@ Sessions led by [Timothy Kam](https://phantomachine.github.io)
 ## Dec 1 :  Workshop and Practical Data Workouts I
 
   * Tooling Up: A basic introduction to Jupyter Notebooks for Data Analysis
-  * Practical: A code-based generalization of tasks from Nov 17 material on GDP and inflation
+  * Practical:
+    * A code-based generalization of tasks from Nov 17 material on GDP and inflation
+    * [Source Files](fisher)
 
 ## Dec 8: Workshop and Practical Data Workouts II
 
   * Tooling Up: Using APIs and Jupyter Notebooks to Organize, Visualize and Analyze Data
-  * Practical: Unemployment and Job Vacancies over the Business Cycle 
+  * Practical:
+    * Unemployment and Job Vacancies over the Business Cycle
+    * [Source files](Unemployment-vacancies)
