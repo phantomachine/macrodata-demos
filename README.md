@@ -4,14 +4,14 @@ Sessions led by [Timothy Kam](https://phantomachine.github.io)
 
 ## Nov 3 : Lecture ~ Measurement I: Or How We Come to Love the Accountants
 
-  * **READ**: [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
+  * **READ**: Chapter 2, [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
   * Introduction to measurement
   * Why is it important
   * [Slides](Measurement)
 
 ## Nov 10 : Lecture ~ Measurement II: Heterogeneous Products and Inflation
 
-  * **READ**: [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
+  * **READ**: Chapter 2, [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
   * How to Build a Useful Scalar Indicator (Real GDP)?
   * Measurement Biases and Issues
   * A Solution to Minimize Biases - Fisher Index (The Modern Chain Volume Measure/Index)
@@ -21,8 +21,9 @@ Sessions led by [Timothy Kam](https://phantomachine.github.io)
 
 ## Nov 24 : Practical Workouts ~ Measurement
 
-  * **READ**: [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
+  * **READ**: Chapter 2, [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
   * In-Class Exercises and Q&A
+  * End of chapter exercises - DIY!
 
 ## Dec 1 :  Workshop and Practical Data Workouts I
 
