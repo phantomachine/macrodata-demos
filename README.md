@@ -17,13 +17,13 @@ Sessions led by [Timothy Kam](https://phantomachine.github.io)
   * A Solution to Minimize Biases - Fisher Index (The Modern Chain Volume Measure/Index)
   * [Slides (continuation)](Measurement)
 
-## Nov 17: NO CLASS! (Keio Mita Festival)
-
-## Nov 24 : Practical Workouts ~ Measurement
+## Nov 17 : Practical Workouts ~ Measurement
 
   * **READ**: Chapter 2, [Charles Jones, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034), Norton Publishers (2025, 6th Edition)
   * In-Class Exercises and Q&A
   * End of chapter exercises - DIY!
+
+## Nov 24: NO CLASS! (Keio Mita Festival)
 
 ## Dec 1 :  Workshop and Practical Data Workouts I
 
