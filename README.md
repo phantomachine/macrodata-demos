@@ -17,7 +17,7 @@ Sessions led by [Timothy Kam](https://phantomachine.github.io)
 
 ## Nov 10 : Lecture ~ Measurement II: Heterogeneous Products and Inflation
 
-  * **READ**: Chapter 2, [Jones](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034)
+  * **READ**: Chapter 2, [**Jones**](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034)
   * How to Build a Useful Scalar Indicator (Real GDP)?
   * Measurement Biases and Issues
   * A Solution to Minimize Biases - Fisher Index (The Modern Chain Volume Measure/Index)
@@ -25,7 +25,7 @@ Sessions led by [Timothy Kam](https://phantomachine.github.io)
 
 ## Nov 17 : Practical Workouts ~ Measurement
 
-  * **READ**: Chapter 2, [**Jones**, *Macroeconomics*](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034)
+  * **READ**: Chapter 2, [**Jones**](https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/dh0sjj/alma9926976244104034)
   * In-Class Exercises and Q&A
   * End of chapter exercises - DIY!
 
