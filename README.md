@@ -1,10 +1,10 @@
 # Agenda
 
-Formats:
+## Formats:
 
-* Lecture(s): Main ideas, close to textbook reading (Chapter 2, [Charles Jones, *Macroeconomics*]).
-* Workshops: Lecture-like, but more interactive demos and applications of main ideas.
-* Practical Workouts: Hands-on exercises/practice questions, critical thinking and discussions
+* **Lecture(s)**: Main ideas, close to textbook reading (Chapter 2, [Charles Jones, *Macroeconomics*]).
+* **Workshops**: Lecture-like, but more interactive demos and applications of main ideas.
+* **Practical Workouts**: Hands-on exercises/practice questions, critical thinking and discussions
 
 Sessions led by [Timothy Kam](https://phantomachine.github.io)
 
